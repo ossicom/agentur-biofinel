@@ -1,0 +1,30 @@
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+# ignore ALL files in ANY directory named *
+.vscode/
+temp/
+.DS_Store
+*.env
+*.htaccess
+*.htpasswd
+*.txt
+*.xml
+*.json
+*.lock
+*.log
+
+
+parts/vendor/
+shared/inc/db.inc.php
+*phpmailer.php
+
