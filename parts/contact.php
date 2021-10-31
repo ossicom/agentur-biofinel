@@ -33,7 +33,7 @@
             </div><br>
             <!-- goggle recaptcha -->
             <div style="display: flex; justify-content: center;">
-                <div class="g-recaptcha" data-sitekey="6LfXfOwcAAAAABkZ2Ca4bAXWp9eTaM4C8bhke4wS">
+                <div class="g-recaptcha" data-sitekey="enter your sitekey hier">
                 </div>
             </div>
             <!-- ende recaptcha -->
